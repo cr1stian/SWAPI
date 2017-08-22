@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('http://wallpapercave.com/wp/ItmVuT6.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#header{
+  width: 80%;
+  margin: 0 auto;
+}
+#nameForm{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+  text-align: center;
+}
+.main-container{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#vehicle-cards{
+  margin: 10px;
+}
